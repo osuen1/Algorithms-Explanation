@@ -18,5 +18,6 @@ Popular algorithms explained in simple language with examples and links to their
 - [Korean](./ko)
 - [Nepali](./ne)
 - [Spanish](./es)
+- [Russian](./ru)
 
 To add a new language, create a new folder using 2 character `ISO 639-1` code of that language. For example use `hi` for `Hindi` explanations.
